@@ -1,0 +1,8 @@
+{
+  page2: characters(page: 2) {
+    id
+    name
+    status
+    image
+  }
+}
