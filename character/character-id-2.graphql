@@ -1,7 +1,10 @@
-character2: character(id: 2) {
-id
-name
-status
-species
-type
-gender}
+{
+  character2: character(id: 2) {
+    id
+    name
+    status
+    species
+    type
+    gender
+  }
+}
